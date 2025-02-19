@@ -38,11 +38,11 @@ function App() {
   return (
     <>
       <Routes>
-        <Route path="/" element={<HomeOne />} />
+        {/* <Route path="/" element={<HomeOne />} /> */}
         <Route path="/home2" element={<HomeTwo />} />
         <Route path="/home3" element={<HomeThree />} />
         <Route path="/home4" element={<HomeFour />} />
-        <Route path="/home5" element={<HomeFive />} />
+        <Route path="/" element={<HomeFive />} />
         <Route path="/about" element={<About />} />
         <Route path="/portfolio" element={<Portfolio />} />
         <Route path="/portfolio-details" element={<PortfolioDetails />} />

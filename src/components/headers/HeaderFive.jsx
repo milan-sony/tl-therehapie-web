@@ -78,7 +78,7 @@ export const HeaderFive = () => {
               <div className="row">
                 <div className="col-12">
                   <div className="td-header-5-bg" id="header-sticky">
-                    <div className="row align-items-center">
+                    <div className="row align-items-center" style={{justifyContent:'center'}}>
                       <div className="col-lg-8 col-6">
                         <div className="td-main-menu td-main-menu-2 td-main-menu-5 d-none d-lg-block">
                           <Navbar hidePortfolio />
@@ -90,7 +90,7 @@ export const HeaderFive = () => {
                         </div>
                       </div>
 
-                      <div className="col-lg-4 col-6">
+                      {/* <div className="col-lg-4 col-6">
                         <div className="td-header-5-right">
                           <div className="td-header-search td-header-5-search d-none d-lg-block">
                             <form action="#">
@@ -136,7 +136,7 @@ export const HeaderFive = () => {
                             </button>
                           </div>
                         </div>
-                      </div>
+                      </div> */}
                     </div>
                   </div>
                 </div>

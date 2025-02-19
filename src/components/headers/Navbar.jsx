@@ -3,11 +3,11 @@ import { Link } from "react-router-dom";
 
 export const Navbar = ({ hidePortfolio = false }) => {
   return (
-    <nav className="td-main-menu-content">
+    <nav className="td-main-menu-content  " style={{textAlign:"center"}}>
       <ul>
         <li className="has-dropdown">
           <Link to="/"> Home</Link>
-          <ul className="td-submenu submenu">
+          {/* <ul className="td-submenu submenu">
             <li>
               <Link to="/">Main Home</Link>
             </li>
@@ -23,15 +23,17 @@ export const Navbar = ({ hidePortfolio = false }) => {
             <li>
               <Link to="/home5">Insurance Home</Link>
             </li>
-          </ul>
+          </ul> */}
+        </li>
+        <li className="has-dropdown">
+          <Link to="/about"> About</Link>
+          
         </li>
 
         <li className="has-dropdown">
           <a href="#">Pages</a>
           <ul className="td-submenu submenu">
-            <li>
-              <Link to="/about">About</Link>
-            </li>
+           
             <li>
               <Link to="/portfolio">Portfolio</Link>
             </li>
@@ -44,15 +46,13 @@ export const Navbar = ({ hidePortfolio = false }) => {
             <li>
               <Link to="/team-details">Team Details</Link>
             </li>
-            <li>
-              <Link to="/faq">Faq</Link>
-            </li>
+          
             <li>
               <Link to="/error">Error</Link>
             </li>
           </ul>
         </li>
-
+        
         <li className="has-dropdown">
           <Link to="/blog">Blog</Link>
           <ul className="td-submenu submenu">
@@ -75,6 +75,10 @@ export const Navbar = ({ hidePortfolio = false }) => {
               <Link to="/service-details">Service Details</Link>
             </li>
           </ul>
+        </li>
+        <li className="has-dropdown">
+          <Link to="/faq"> Faq</Link>
+          
         </li>
 
         {hidePortfolio ? null : (
