@@ -23,6 +23,7 @@ import { Service } from "./pages/service/Service";
 import { ServiceDetails } from "./pages/service/ServiceDetails";
 import { Contact } from "./pages/contact/Contact";
 import TermsAndConditions from "./pages/termsandconditions/TermsAndConditions";
+import PrivacyAndPolicies from "./pages/pricacyandpolicies/PrivacyAndPolicies";
 
 function App() {
   useWow();
@@ -56,6 +57,7 @@ function App() {
         <Route path="/service-details" element={<ServiceDetails />} />
         <Route path="/contact" element={<Contact />} />
         <Route path="/termsandconditions" element={<TermsAndConditions />} />
+        <Route path="/privacypolicy" element={<PrivacyAndPolicies />} />
         <Route path="*" element={<ErrorPage />} />
       </Routes>
     </>
