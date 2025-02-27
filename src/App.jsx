@@ -22,6 +22,7 @@ import { BlogDetails } from "./pages/blog/BlogDetails";
 import { Service } from "./pages/service/Service";
 import { ServiceDetails } from "./pages/service/ServiceDetails";
 import { Contact } from "./pages/contact/Contact";
+import TermsAndConditions from "./pages/termsandconditions/TermsAndConditions";
 
 function App() {
   useWow();
@@ -48,12 +49,13 @@ function App() {
         <Route path="/portfolio-details" element={<PortfolioDetails />} />
         <Route path="/team" element={<Team />} />
         <Route path="/team-details" element={<TeamDetails />} />
-        <Route path="/faq" element={<Faq/>} />
+        <Route path="/faq" element={<Faq />} />
         <Route path="/blog" element={<Blog />} />
         <Route path="/blog-details" element={<BlogDetails />} />
         <Route path="/service" element={<Service />} />
         <Route path="/service-details" element={<ServiceDetails />} />
         <Route path="/contact" element={<Contact />} />
+        <Route path="/termsandconditions" element={<TermsAndConditions />} />
         <Route path="*" element={<ErrorPage />} />
       </Routes>
     </>
