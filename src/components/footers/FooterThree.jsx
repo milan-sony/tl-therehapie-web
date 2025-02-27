@@ -52,6 +52,7 @@ export const FooterThree = () => {
                           <Link to={"/termsandconditions"}>Terms And Conditions</Link>
                           <Link to={"/privacypolicy"}>Privacy Policy</Link>
                           <Link to={"/disclaimer"}>Disclaimer</Link>
+                          <Link to={"/cookiepolicy"}>Cookie Policy</Link>
                         </li>
                       </ul>
                     </div>

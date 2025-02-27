@@ -25,6 +25,7 @@ import { Contact } from "./pages/contact/Contact";
 import TermsAndConditions from "./pages/termsandconditions/TermsAndConditions";
 import PrivacyAndPolicies from "./pages/pricacyandpolicies/PrivacyAndPolicies";
 import Disclaimer from "./pages/disclaimer/Disclaimer";
+import CookiePolicy from "./pages/cookiepolicy/CookiePolicy";
 
 function App() {
   useWow();
@@ -60,6 +61,7 @@ function App() {
         <Route path="/termsandconditions" element={<TermsAndConditions />} />
         <Route path="/privacypolicy" element={<PrivacyAndPolicies />} />
         <Route path="/disclaimer" element={<Disclaimer />} />
+        <Route path="/cookiepolicy" element={<CookiePolicy />} />
         <Route path="*" element={<ErrorPage />} />
       </Routes>
     </>
