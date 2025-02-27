@@ -27,10 +27,10 @@ export const Layout = ({
 
       {/* headers */}
       {header === 1 && <HeaderOne />}
-      {header === 2 && <HeaderTwo />}
+      {header === 2 && <HeaderTwo />}{/* select1 */}
       {header === 3 && <HeaderThree />}
       {header === 4 && <HeaderFour />}
-      {header === 5 && <HeaderFive />}
+      {header === 5 && <HeaderFive />}{/* select2 */}
 
       {/* mobile navbar */}
       {[1, 2, 3, 4].includes(header) && <MobileNavbar />}

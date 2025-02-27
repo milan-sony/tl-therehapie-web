@@ -15,23 +15,22 @@ export const HeroFive = () => {
     <>
       <div className="td-hero-area td-hero-5-spacing td-grey-bg-2 p-relative z-index-1">
         <div className="td-hero-5-bigtext-wrap">
-          <h3 className="td-hero-5-bigtext" data-text="Insurance">
-            Insurance
+          <h3 className="td-hero-5-bigtext" data-text="theREHApie ">
+          theREHApie 
           </h3>
         </div>
         <div className="container">
           <div className="row">
             <div className="col-xl-5 col-lg-6">
               <div className="td-hero-5-content-wrap">
-                <span className="td-section-title-pre mb-10">
+                {/* <span className="td-section-title-pre mb-10">
                   Life your Dream
-                </span>
+                </span> */}
                 <h2 className="td-hero-5-title mb-60">
-                  Secure your future family
-                </h2>
+                Revolutionizing Rehab, Bridging Innovation & Care.                </h2>
                 <div className="td-hero-5-btn">
                   <Link to="/contact" className="td-btn mr-20 td-left-right">
-                    View insurance plan
+                    View Products
                     <span className="td-arrow-angle ml-10">
                       <svg
                         className="td-arrow-svg-top-right"
@@ -72,7 +71,7 @@ export const HeroFive = () => {
           </div>
         </div>
       </div>
-      <div className="td-hero-5-form-area">
+      {/* <div className="td-hero-5-form-area">
         <div className="container">
           <div className="row justify-content-center">
             <div className="col-xl-8 col-lg-10">
@@ -286,7 +285,7 @@ export const HeroFive = () => {
             </div>
           </div>
         </div>
-      </div>
+      </div> */}
     </>
   );
 };

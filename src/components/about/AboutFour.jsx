@@ -55,9 +55,8 @@ export const AboutFour = () => {
                 Our business is taking care of your business
               </h2>
               <p className="td-about-para pr-10 pb-45">
-                We are constantly rethinking the future by creating the next
-                generation of products, brands and services from a hybrid
-                perspective. The unthinkable today becomes inevitable.
+              We connect manufacturers with trusted distributors and support healthcare providers with cost-effective rehabilitation solutions while providing strategic market insights. 
+              Our mission is to empower the Middle East with cutting-edge rehab technology for faster, more effective recovery.
               </p>
               <div className="td-about-4-info">
                 <div className="row">
@@ -106,7 +105,7 @@ export const AboutFour = () => {
                       </span>
                       <div className="td-about-4-contact-info">
                         <span>Get In Touch</span>
-                        <a href="tel:+51174705812">+51 174 705 812</a>
+                        <a href="tel:+971 50 136 1586" target="_blank">+971 50 136 1586</a>
                       </div>
                     </div>
                   </div>
