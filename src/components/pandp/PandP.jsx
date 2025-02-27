@@ -7,7 +7,8 @@ function PandP() {
             <div class="privacy-container">
                 <h1 class="pandp">Privacy Policy</h1>
 
-                <p>At theREHApie Consultants, we are committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your personal information when you visit our website <strong>www.theREHApie.com</strong> and use our services. By accessing our website, you agree to the terms outlined in this policy. If you do not agree, please do not use our services.</p>
+                <p>At <strong>theREHApie Consultants</strong>, we are committed to protecting your privacy. This <strong>Privacy Policy</strong> explains how we collect, use, and safeguard your personal information when you visit our website <a href='www.theREHApie.com'><strong>www.theREHApie.com</strong></a>  and use our services. <br /><br />
+                By accessing our website, you agree to the terms outlined in this policy. If you do not agree, please do not use our services.</p>
 
                 <div class="section-header">1. Information We Collect</div>
                 <p>We may collect the following types of information:</p>
@@ -24,8 +25,8 @@ function PandP() {
                     <li>✔️ To communicate with you regarding inquiries, partnerships, and business opportunities.</li>
                     <li>✔️ To analyze website traffic and improve user experience.</li>
                     <li>✔️ To comply with legal and regulatory requirements.</li>
-                </ul>
-                <p>We do not sell or share your personal data with third parties for marketing purposes.</p>
+                </ul> <br />
+                <p>We <strong>do not sell</strong> or share your personal data with third parties for marketing purposes.</p>
 
                 <div class="section-header">3. How We Protect Your Information</div>
                 <p>We implement strict security measures to prevent unauthorized access, misuse, or loss of data. These include:</p>
@@ -33,7 +34,7 @@ function PandP() {
                     <li>✔️ Encrypted data transmission using SSL technology.</li>
                     <li>✔️ Secure storage and restricted access to sensitive information.</li>
                     <li>✔️ Regular security audits and vulnerability assessments.</li>
-                </ul>
+                </ul><br />
                 <p>Despite our best efforts, no online transmission is 100% secure. By using our website, you acknowledge this risk.</p>
 
                 <div class="section-header">4. Third-Party Services & Links</div>
@@ -50,8 +51,8 @@ function PandP() {
                     <li>✔️ Request corrections or updates to inaccurate information.</li>
                     <li>✔️ Request deletion of your data, subject to legal obligations.</li>
                     <li>✔️ Opt-out of marketing communications at any time.</li>
-                </ul>
-                <p>To exercise these rights, contact us at <a href="mailto:abdul.rahiman@therehapie.com">abdul.rahiman@therehapie.com</a>.</p>
+                </ul><br />
+                <p>To exercise these rights, contact us at <strong><a href="mailto:abdul.rahiman@therehapie.com">abdul.rahiman@therehapie.com</a></strong>.</p>
 
                 <div class="section-header">6. Cookies & Tracking Technologies</div>
                 <p>We use cookies to:</p>
@@ -59,7 +60,7 @@ function PandP() {
                     <li>✔️ Remember user preferences and settings.</li>
                     <li>✔️ Improve website performance and user experience.</li>
                     <li>✔️ Track and analyze website traffic for optimization.</li>
-                </ul>
+                </ul><br />
                 <p>You can disable cookies through your browser settings, but this may impact your browsing experience.</p>
 
                 <div class="section-header">7. Data Retention Policy</div>
@@ -68,11 +69,11 @@ function PandP() {
                     <li>✔️ Providing our services and fulfilling business purposes.</li>
                     <li>✔️ Complying with legal, tax, and regulatory obligations.</li>
                     <li>✔️ Resolving disputes and enforcing agreements.</li>
-                </ul>
+                </ul><br />
                 <p>Once data is no longer required, it is securely deleted or anonymized.</p>
 
                 <div class="section-header">8. Changes to This Privacy Policy</div>
-                <p>We may update this Privacy Policy periodically. Any changes will be reflected on this page with a revised Last Updated date. Continued use of our website constitutes acceptance of these changes.</p>
+                <p>We may update this Privacy Policy periodically. Any changes will be reflected on this page with a revised <strong>Last Updated</strong> date. <br /> <br />Continued use of our website constitutes acceptance of these changes.</p>
 
                 <div class="section-header">9. Contact Us</div>
                 <div class="contact-info">
@@ -83,7 +84,7 @@ function PandP() {
                 </div>
                 <div>
                     <hr />
-                    <p>Your privacy is important to us. Thank you for trusting theREHApie Consultants. 🚀</p>
+                    <p>Your privacy is important to us. Thank you for trusting <strong>theREHApie Consultants</strong>. 🚀</p>
                 </div>
             </div>
         </div>

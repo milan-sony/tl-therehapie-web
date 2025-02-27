@@ -12,8 +12,8 @@ function DisclaimerComp() {
                 <div class="section-header">1. No Medical Advice</div>
                 <p>The content on this website, including but not limited to articles, blogs, case studies, and product descriptions, is not intended to be a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of a qualified healthcare provider before making medical decisions.</p>
                 <ul>
-                    <li>✔️ ✔️ <strong>theREHApie Consultants</strong> does not provide medical services, and any reliance on information from this website is at your own risk.</li>
-                    <li>✔️ ✔️ The use of rehabilitation equipment should always be guided by licensed professionals.</li>
+                    <li>✔️ <strong>theREHApie Consultants</strong> does not provide medical services, and any reliance on information from this website is at your own risk.</li>
+                    <li>✔️ The use of rehabilitation equipment should always be guided by licensed professionals.</li>
                 </ul>
 
                 <div class="section-header">2. Accuracy of Information</div>
@@ -46,7 +46,7 @@ function DisclaimerComp() {
 
                 <div class="section-header">6. Professional & Business Decisions</div>
                 <ul>
-                    <li>✔️ Any business, financial, or legal decisions made based on our consulting services or website content are at your own risk.</li>
+                    <li>✔️ Any business, financial, or legal decisions made based on our consulting services or website content are <strong>at your own risk</strong>.</li>
                     <li>✔️ We recommend seeking independent professional advice before making investment or business decisions.</li>
                 </ul>
 
