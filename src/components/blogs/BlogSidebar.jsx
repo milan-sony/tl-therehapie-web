@@ -83,7 +83,7 @@ export const BlogSidebar = () => {
           </div>
 
           {/* popular keyword */}
-          <div className="td-blog-sidebar-widget mb-50">
+          {/* <div className="td-blog-sidebar-widget mb-50">
             <div className="td-blog-sidebar-widget-content">
               <h3 className="td-blog-sidebar-title mb-15">Popular Keyword</h3>
               <ul>
@@ -96,7 +96,7 @@ export const BlogSidebar = () => {
                 ))}
               </ul>
             </div>
-          </div>
+          </div> */}
 
           {/* ads banner */}
           <div className="td-blog-sidebar-widget">

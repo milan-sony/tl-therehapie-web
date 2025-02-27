@@ -5227,8 +5227,9 @@ input[type="color"] {
   }
 }
 .td-hero-5-title {
+  margin-top: 40px;
   font-weight: 600;
-  font-size: 80px;
+  font-size: 42px;
   line-height: 1.12;
   letter-spacing: -0.02em;
 }

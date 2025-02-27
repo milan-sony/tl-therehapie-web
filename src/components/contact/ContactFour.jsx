@@ -25,17 +25,17 @@ export const ContactFour = () => {
 
                       <div className="col-xl-5 col-lg-6 col-md-6 col-sm-7">
                         <div className="td-contact-4-content">
-                          <h3 className="td-contact-4-title mb-30">London</h3>
+                          <h3 className="td-contact-4-title mb-30">Dubai</h3>
                           <ul>
                             <li>
                               <a
                                 className="td-contact-4-email"
                                 href="mailto:info@adina-design.com"
                               >
-                                info@adina-design.com
+                               Dubai Airport Freezone, Dubai, UAE
                               </a>
                             </li>
-                            <li className="mb-10">
+                            {/* <li className="mb-10">
                               <a
                                 className="td-contact-4-phone"
                                 href="tel:+(123)45678900"
@@ -52,7 +52,7 @@ export const ContactFour = () => {
                                 2938 Bingamon Branch Road Highland Park, IL
                                 60035
                               </a>
-                            </li>
+                            </li> */}
                           </ul>
                         </div>
                       </div>
@@ -73,32 +73,31 @@ export const ContactFour = () => {
 
                       <div className="col-xl-5 col-lg-6 col-md-6 col-sm-7">
                         <div className="td-contact-4-content">
-                          <h3 className="td-contact-4-title mb-30">New York</h3>
+                          <h3 className="td-contact-4-title mb-30">Contact Us</h3>
                           <ul>
-                            <li>
+                            {/* <li>
                               <a
                                 className="td-contact-4-email"
                                 href="mailto:info@adina-design.com"
                               >
                                 info@adina-design.com
                               </a>
-                            </li>
+                            </li> */}
                             <li className="mb-10">
                               <a
                                 className="td-contact-4-phone"
                                 href="tel:+(123)45678900"
                               >
-                                +(123) 456 789 00
+                                 +971-XXX-XXXX
                               </a>
                             </li>
                             <li>
                               <a
                                 className="td-contact-4-addres"
-                                href="https://www.google.com/maps/@41.6758525,-86.2531698,18.17z"
+                                href="mailto:info@therehapie.com"
                                 target="_blank"
                               >
-                                2938 Bingamon Branch Road Highland Park, IL
-                                60035
+                     info@therehapie.com
                               </a>
                             </li>
                           </ul>
@@ -112,7 +111,7 @@ export const ContactFour = () => {
               <div className="col-xl-6 col-lg-5">
                 <div className="td-contact-4-form ml-100">
                   <div className="td-chose-title-wrap mb-40">
-                    <span className="td-section-title-pre mb-10">Contact</span>
+                    {/* <span className="td-section-title-pre mb-10">Contact</span> */}
                     <h2 className="td-section-title">Get a free quote.</h2>
                   </div>
 
